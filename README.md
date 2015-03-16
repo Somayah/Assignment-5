@@ -2,5 +2,6 @@
 CPSC 473 assignment
 
 ####Partners' names
-Mussa Mubarki
-Somayah Baflah
+*Mussa Mubarki
+
+*Somayah Baflah
